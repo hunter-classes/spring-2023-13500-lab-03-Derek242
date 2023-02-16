@@ -1,4 +1,12 @@
-// add your code as appropriate 
+// 
+/*
+Author: Derek Ni
+Course: CSCI-135
+Instructor: Micheal Zamansky
+Assignment: Lab 3
+
+*/
+
 #include <iostream>
 #include <fstream>
 #include <cstdlib>
